@@ -1,12 +1,16 @@
 import React from 'react';
-import NavBar from './Nav.js';
-import Instagram from './Inspiration';
+//import NavBar from './Nav.js';
+import Footer from '../components/Footer';
+import '../styles/App.css'
+import '../styles/Footer.css'
+
 
 const App = () => {
   return (
-    <div className="App">
-        <NavBar />
-        <Instagram />
+    <div>
+        
+        <Footer />
+
     </div>
   );
 }
