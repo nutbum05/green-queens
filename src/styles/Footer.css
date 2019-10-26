@@ -149,10 +149,7 @@ padding-top: 160px;
 padding-left: 418px;
   }
   .Information {
-    position: fixed;
-    bottom:52px;
-    right:424px;
-width: 275px;
+    width: 275px;
     height: 22.6px;
     font-family: Montserrat;
     font-size: 18px;
@@ -163,6 +160,9 @@ width: 275px;
     letter-spacing: normal;
     text-align: right;
     color: #272727;
+    position: fixed;
+    bottom: 30px  ;
+    left: 1125px;
   }
   .sub-e-mail {
     width: 325px;

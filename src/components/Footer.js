@@ -52,9 +52,10 @@ class Footer extends React.Component {
                         </div>
 
                     </div>
-                    <div className="Information">Information</div>
 
                 </div>
+                <div className="Information">Information</div>
+
                 <div className="-Green-Queen-2019"> &copy;Green Queens 2019 </div>
             </div>
         );

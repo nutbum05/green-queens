@@ -132,6 +132,9 @@
     letter-spacing: normal;
     text-align: center;
     color: #ffffff;
+    position: fixed;
+  top:691px;
+  left: 1139px;
   }
   .page-leaves-left {
     height: auto;
